@@ -15,12 +15,15 @@ The best part? You don't need to know Python to customize it. The app reads its 
 
 ## 🚀 How to Use (For Regular Users)
 
-You do not need to install Python to use this tool! 
+You do not need to install Python or know how to code to use this tool! 
 
-1. Download both `app.exe` and `config.json` from the latest release.
-2. Place both files in the same directory (e.g., your Desktop).
-3. Double-click `app.exe`.
-4. Watch your Downloads folder instantly organize itself!
+1. Go to the **Releases** section on the right side of this GitHub page.
+2. Download the latest `.zip` file under "Assets".
+3. Extract (unzip) the folder to your Desktop or anywhere you like.
+4. Open the extracted folder and double-click `app.exe`.
+5. Watch your Downloads folder instantly organize itself!
+
+*Note: Make sure `config.json` always stays in the same folder as `app.exe` so the app knows your sorting rules.*
 
 ### 📝 Customizing Your Folders
 Want to add a new folder or file type? Just open `config.json` in Notepad or any text editor. 
